@@ -1,4 +1,10 @@
-# Docker
+# Running online
+
+Binder:
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/ssalonen/reaktor-space-challenge)
+
+# Running in docker container
 
 ## Prerequisites
 
@@ -10,6 +16,7 @@
 - docker run --rm -p 8888:8888 reaktor-orbital-challenge
 http://localhost:8888/notebooks/reaktor-orbital-challenge.ipynb
 - open browser at http://localhost:8889/notebooks/reaktor-orbital-challenge.ipynb
+- Cell -> Run All
 
 # Local installation
 
