@@ -1,9 +1,3 @@
-# Running online
-
-Binder:
-
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/ssalonen/reaktor-space-challenge)
-
 # Running in docker container
 
 ## Prerequisites
