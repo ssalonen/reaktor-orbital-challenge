@@ -1,6 +1,6 @@
 # Overview
 
-This is my submission for the [Reaktor orbital challenge](https://reaktor.com/orbital-challenge/). Eventhough I did not win in the lottery of Oculus Rift, it was a fun exercise!
+This is my submission for the [Reaktor orbital challenge](https://reaktor.com/orbital-challenge/). Even though I did not win in the lottery of Oculus Rift, it was a fun exercise!
 
 # Problem
 
